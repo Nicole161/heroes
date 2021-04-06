@@ -4,4 +4,4 @@
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros
 4. Acabar con stroke, gatubela y jocker
-5. Conseguir municiones 
+5. Pedir ayuda a Flash
