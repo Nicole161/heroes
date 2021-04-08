@@ -8,9 +8,8 @@
 * Deathstroke
 * Harly Queen
 * Dessad
-<<<<<<< HEAD
 * Mr Frío
 * Black Mantha
-=======
-* Reverse Flash
->>>>>>> 0bb353b (Se agregó la ciudad de Flash)
+* Flash reverse
+
+
